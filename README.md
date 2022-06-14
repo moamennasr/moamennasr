@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML, Python, SQL(MYSQL), Excel**
 
-- 📫 How to reach me **momennasr914@gmail.com**
+- 📫 How to reach me **admin@moamen-nasr.com**
 
-- 📄 Know about my experiences [https://moamennasr.github.io/portfolio.io/generic.html](https://moamennasr.github.io/portfolio.io/generic.html)
+- 📄 Know about my experiences [https://moamen-nasr.com](https://moamen-nasr.com/)
 
 - ⚡ Fun fact **I ❤️ Chess & I am seeking to play professionally at international tournaments and get the international master "IM" title one day.**
 
