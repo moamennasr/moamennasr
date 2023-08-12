@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Moamen Nasr</h1>
-<h3 align="center">A passionate Data Analyst from Egypt</h3>
+<h3 align="center">Aspiring Financial Analyst from Egypt</h3>
 
-- 🌱 I’m currently learning **power bi**
+- 🌱 I’m currently learning **financial analysis**
 
-- 👨‍💻 All of my projects are available at [https://moamen-nasr.com](https://moamen-nasr.com/)
+- 👨‍💻 All of my projects are available at [https://moamen.info](https://moamen.info/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/moamen-ahmed-8884a21b2/](https://www.linkedin.com/in/moamen-ahmed-8884a21b2/)
 
-- 💬 Ask me about **HTML, Python, SQL(MYSQL), Excel**
+- 💬 Ask me about **HTML, CSS, Python, SQL(MYSQL), Excel, Power BI**
 
-- 📫 How to reach me **admin@moamen-nasr.com**
+- 📫 How to reach me **mo@moamen.info**
 
-- 📄 Know about my experiences [https://moamen-nasr.com](https://moamen-nasr.com/)
+- 📄 Know about my experiences [https://moamen.info](https://moamen.info/)
 
 - ⚡ Fun fact **I ❤️ Chess & I am seeking to play professionally at international tournaments and get the international master "IM" title one day.**
 
